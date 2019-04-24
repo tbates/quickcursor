@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5DBBA5A1-40C5-4AC0-8D5C-655982C43B0B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>QuickCursor</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9E1E9C852C00F4FF3AA338CBFA997B59E0E1836C</key>
+		<string>https://github.com/tbates/quickcursor.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>QuickCursor.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9E1E9C852C00F4FF3AA338CBFA997B59E0E1836C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tbates/quickcursor.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9E1E9C852C00F4FF3AA338CBFA997B59E0E1836C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9E1E9C852C00F4FF3AA338CBFA997B59E0E1836C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>quickcursor</string>
+		</dict>
+	</array>
+</dict>
+</plist>
